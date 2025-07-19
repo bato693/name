@@ -1,9 +1,10 @@
 {
     "Info" : 
     {
-        "Version" : "0.0.0",
+        "Version" : 0,
+        "Version Name" : "0.0.0",
         "Description" : "The first version of Downloader!"
     },
 
-    "Download Url" : "https://developer-oss.lanrar.com/file/?VTNUag08ADFUXQE5VmNWOgA/DzcCCVM0UCRVJ1YqVhEFbFphWWEAelFzBCoLK1ZxVGgDb1VmBmEGXlc4XGQDP1VnVDcNZQBsVDEBblY6VmEAag8sAjtTIlBqVWJWOFZxBXVafVk5AGZRNwRgC2pWeFQ+AzFVJQY1BjhXflw2AzJVMFRhDTMAN1RhATZWN1ZlAG4PMwJrU2BQYFUwVjNWYgVgWjVZMwA3UWUEYQs5VmdUNwNnVTIGZwY1V2NcLgN2VS1Udw12ACFUcQEyVnBWPgA+DzcCaVNhUGNVYVY+VmIFPVorWXAAPVFqBDcLOVZqVD8DMVU/BjYGOVdkXDkDNFVjVDQNfgB6VCQBMVZuViAAZw86AntTJFAnVSRWN1ZmBTJaOFk2AGxRMgRqC25WblQ9AyBVfwZtBnFXbFwxAzNVZ1QtDWIAYFQsAWZWNVZlAHQPOAJrU39QcVU3VmVWIAVrWlJZZwA/UToEYgtxVnFUegN/VXoGYQZeVyRcYQM/VWU="
+    "Download Url" : "https://raw.githubusercontent.com/bato693/name/refs/heads/main/Downloader/TestFile.txt"
 }
